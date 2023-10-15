@@ -1,5 +1,6 @@
-
-![orb](https://github.com/Aaron-Gritti/Aaron-Gritti/assets/133798468/093f1043-c9b6-4775-9bf6-8fbf389a15d3)
+<p align="center">
+![hd_fries](https://github.com/Aaron-Gritti/Aaron-Gritti/assets/133798468/812bacae-eb97-41cf-b328-2ffb76057123)
+</p>
 
 <!---
 Aaron-Gritti/Aaron-Gritti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
