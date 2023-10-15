@@ -1,4 +1,6 @@
-![peepo_bounce_on_bed](https://github.com/Aaron-Gritti/Aaron-Gritti/assets/133798468/19cf043c-f38d-4d22-88a3-b037a4c43298)
+
+![orb](https://github.com/Aaron-Gritti/Aaron-Gritti/assets/133798468/093f1043-c9b6-4775-9bf6-8fbf389a15d3)
+
 <!---
 Aaron-Gritti/Aaron-Gritti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
