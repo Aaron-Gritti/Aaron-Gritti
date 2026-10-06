@@ -1,6 +1,7 @@
 
 ![hd_fries](./assets/hd_fries.gif)
 
+hmm fries 
 <!---
 Aaron-Gritti/Aaron-Gritti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
